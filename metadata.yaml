@@ -1,0 +1,44 @@
+_repo: Elizabethan-Sonnet-Cycles--Idea-Fidesa-and-Chloris_15448
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Griffin, Bartholomew
+    deathdate: 1602
+    gutenberg_agent_id: '6062'
+    url: http://www.gutenberg.org/2009/agents/6062
+  - agent_name: Smith, William, active 1596
+    gutenberg_agent_id: '6147'
+    url: http://www.gutenberg.org/2009/agents/6147
+  - agent_name: Drayton, Michael
+    alias: Draiton, Michaell
+    birthdate: 1563
+    deathdate: 1631
+    gutenberg_agent_id: '6061'
+    url: http://www.gutenberg.org/2009/agents/6061
+    wikipedia: http://en.wikipedia.org/wiki/Michael_Drayton
+  editor:
+    agent_name: Crow, Martha Foote
+    birthdate: 1854
+    deathdate: 1924
+    gutenberg_agent_id: '6063'
+    url: http://www.gutenberg.org/2009/agents/6063
+description: ''
+gutenberg_issued: '2005-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15448'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcsh 'Sonnets, English'
+- !lcc 'PR'
+tableOfContents: Idea, by Michael Drayton -- Fidessa, by Bartholomew Griffin -- Chloris,
+  by William Smith.
+title: 'Elizabethan Sonnet Cycles: Idea, Fidesa and Chloris'
+url: http://www.gutenberg.org/ebooks/15448
